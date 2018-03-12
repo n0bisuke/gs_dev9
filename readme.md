@@ -25,3 +25,8 @@ https://github.com/n0bisuke/gs_dev9/issues/1
 作ったら記載しましょう
 
 Dev7期参考 -> https://github.com/n0bisuke/gs7th/
+
+##参加メンバー
+のびすけさん
+大平さん
+宮本さん
